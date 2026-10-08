@@ -19,9 +19,11 @@ Results-driven Computer Science graduate, specializing in Penetration Testing an
 ---
 
 ## 🛠️ Technical Ecosystem & Tooling
-* **OS:** Kali Linux, Ubuntu Enterprise, Windows Server Architecture
-* **Languages:** Python (Security Automation), Java (Spring Security), C++
-* **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP
+* **Offensive Security:** Methodology & Planning, Vulnerability Scanning, Web Application Pentesting, Privilege escalation.
+* **OS:** Kali Linux, Ubuntu Enterprise, Windows Server Architecture, Mac
+* **Programming & Scripting :** Python (Security Automation), Java (Spring Security), C++, Bash, Powershell,
+* **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP, Hashcat, John the Ripper
+* **Networking & Protocols:** TCP/IP architecture,DNS security, Wireshark Traffic Analysis
 * **Cloud Architecture:** AWS / Microsoft Azure Environment Foundations
 
 ---
@@ -32,4 +34,13 @@ Results-driven Computer Science graduate, specializing in Penetration Testing an
 * **Environment:** Isolated Hybrid-Cloud Active Directory Environment (AWS Lab)
 * **Methodology:** Reconnaissance via Nmap; packet analysis via Wireshark; exploitation via custom Python payload; lateral privilege escalation
 * **Remediation & Compliance Alignment:** Enforced Network Segmentation protocols mapping directly to OWASP Top 10 enterprise compliance standards
-*
+
+## Professional Certification
+* **CompTIA PenTest+:** -*In Progress*
+---
+## Language & Cultural Aignment
+* **English:** Full Professional Proficiency (C1/C2 equivalent)
+* **Italian:** Limited working Proficiency(A2/B1 CEFR Level - Continuous Study Track)
+---
+## GDPR Compliance Notice
+* *In compliance with the European General Data Protection (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes*
