@@ -36,9 +36,10 @@ Results-driven Computer Science graduate, specializing in Penetration Testing an
 * **Remediation & Compliance Alignment:** Enforced Network Segmentation protocols mapping directly to OWASP Top 10 enterprise compliance standards
 
 ## Professional Certification
+* **OSCP+/ OSCP:** -*In progress*
 * **CompTIA PenTest+:** -*In Progress*
 ---
-## Language & Cultural Aignment
+## Language & Cultural Alignment
 * **English:** Full Professional Proficiency (C1/C2 equivalent)
 * **Italian:** Limited working Proficiency(A2/B1 CEFR Level - Continuous Study Track)
 ---
